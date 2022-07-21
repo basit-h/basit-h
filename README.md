@@ -1,5 +1,5 @@
-### Hi there 👋
-#### I am Front-end Web Developer
+### Hi there 👋 I'm Basit Hussain
+#### (Front-End Developer)
 
 🌱 I’m currently learning Javascript.
 
