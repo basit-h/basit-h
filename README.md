@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### I am Front-end Web Developer
+
+🌱 I’m currently learning Javascript.
 
 <!--
 **basit-h/basit-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
