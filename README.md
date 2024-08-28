@@ -12,6 +12,6 @@ I'm currently exploring mobile app development using Flutter and working on buil
 ![Basit's GitHub stats](https://github-readme-stats.vercel.app/api?username=basit-h&show_icons=true&theme=radical)
 
 ## Contact Me
-You can reach me via email at [basit.hussain47@gmail.com] or connect with me on LinkedIn at [https://www.linkedin.com/in/basit-hussain]. I'm always open to new opportunities and would love to hear from you.
+You can reach me via [email](basit.hussain47@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/basit-hussain). I'm always open to new opportunities and would love to hear from you.
 
 Thanks for visiting my profile!
