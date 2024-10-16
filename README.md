@@ -22,7 +22,7 @@ I'm currently exploring mobile app development using Flutter and working on buil
 
 ![Basit's GitHub stats](https://github-readme-stats.vercel.app/api?username=basit-h&show_icons=true&theme=gruvbox)  &nbsp;&nbsp; &nbsp;&nbsp;  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basit-h&theme=gruvbox)
 
-[![Basits's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=basit-h&theme=gruvbox)]
+![Basits's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=basit-h&theme=gruvbox)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=basit-h&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
