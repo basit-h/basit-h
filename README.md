@@ -26,7 +26,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Flutter Frameworks and State Management:
+### Flutter Packages & Plugins:
 ![Flame](https://img.shields.io/badge/Flame-EE1E46?style=flat-square&color=EE1E46)
 ![BLoC](https://img.shields.io/badge/BLoC-0091EA?style=flat-square&color=0091EA)
 ![Riverpod](https://img.shields.io/badge/Riverpod-42A5F5?style=flat-square&color=42A5F5)
