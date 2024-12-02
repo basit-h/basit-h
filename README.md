@@ -12,15 +12,6 @@
 
 🌱 Always seeking growth and new opportunities!
 
-## What I'm Currently Learning
-🚀 Exploring mobile app development with Flutter!
-
-📚 Diving into online tutorials and documentation to master the basics.
-
-🛠️ Building simple to complex apps to solidify my skills.
-
-💪 Thrilled by the challenge and the chance to grow as a developer!
-
 ### Languages and Tools:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
